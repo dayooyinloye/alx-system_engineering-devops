@@ -1,1 +1,3 @@
-This is a project to understand shell scripts
+ALX-system_engineering-devops
+ 
+  This project is to understand shell
