@@ -1,2 +1,3 @@
 #!/bin/bash
-INT='set:printenv' | echo $INT
+set
+
